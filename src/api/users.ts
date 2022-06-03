@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const users = [
   {
     id: 1,
